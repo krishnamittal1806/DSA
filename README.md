@@ -9,6 +9,7 @@ DSA notes and Qs.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/krishnamittal1806/DSA/tree/master/0020-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishnamittal1806/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishnamittal1806/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2063-vowels-of-all-substrings](https://github.com/krishnamittal1806/DSA/tree/master/2063-vowels-of-all-substrings) |
@@ -40,6 +41,7 @@ DSA notes and Qs.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/krishnamittal1806/DSA/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/krishnamittal1806/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/krishnamittal1806/DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Design
