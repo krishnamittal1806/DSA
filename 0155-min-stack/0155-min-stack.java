@@ -12,15 +12,14 @@ class MinStack {
         if(minstack.isEmpty() || value <= minstack.peek()){
             minstack.push(value);
         }
-        else {
-            minstack.push(minstack.peek());
-        }
         
     }
     
     public void pop() {
-        stack.pop();
+       if(minstack.peek().equals(stack.peek())) {
         minstack.pop();
+       }
+       stack.pop();
         
     }
     
