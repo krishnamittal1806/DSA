@@ -9,6 +9,7 @@ DSA notes and Qs.
 | [0496-next-greater-element-i](https://github.com/krishnamittal1806/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/krishnamittal1806/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/krishnamittal1806/DSA/tree/master/0739-daily-temperatures) |
+| [0994-rotting-oranges](https://github.com/krishnamittal1806/DSA/tree/master/0994-rotting-oranges) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishnamittal1806/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
 |  |
@@ -74,4 +75,12 @@ DSA notes and Qs.
 | [0496-next-greater-element-i](https://github.com/krishnamittal1806/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/krishnamittal1806/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/krishnamittal1806/DSA/tree/master/0739-daily-temperatures) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/krishnamittal1806/DSA/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/krishnamittal1806/DSA/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
