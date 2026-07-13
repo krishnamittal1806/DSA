@@ -3,7 +3,6 @@ class Solution {
        
         Stack<Integer> stack = new Stack<>();
         int n = arr.length;
-        ArrayList<Integer> ans = new ArrayList<>();
         
         for( int i = 0 ; i < n ; i++){
             if(arr[i] > 0){
@@ -22,12 +21,12 @@ class Solution {
             }
         }
 
-        while(!stack.isEmpty()){
-            ans.add(stack.pop());
-        }
+       int[] ans = new int[stack.size()];
 
-        Collections.reverse(ans);
+       for( int i = ans.length - 1 ; i >=0 ; i--){
+          ans[i] = stack.pop();
+       }
 
-        return ans.stream().mapToInt(Integer::intValue).toArray();
+       return ans;
     }
 }
