@@ -72,6 +72,7 @@ DSA notes and Qs.
 | [0503-next-greater-element-ii](https://github.com/krishnamittal1806/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/krishnamittal1806/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/krishnamittal1806/DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/krishnamittal1806/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishnamittal1806/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/krishnamittal1806/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/krishnamittal1806/DSA/tree/master/2104-sum-of-subarray-ranges) |
@@ -81,6 +82,7 @@ DSA notes and Qs.
 | [0155-min-stack](https://github.com/krishnamittal1806/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/krishnamittal1806/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/krishnamittal1806/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/krishnamittal1806/DSA/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -96,6 +98,7 @@ DSA notes and Qs.
 | [0496-next-greater-element-i](https://github.com/krishnamittal1806/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/krishnamittal1806/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/krishnamittal1806/DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/krishnamittal1806/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishnamittal1806/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/krishnamittal1806/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Breadth-First Search
@@ -119,4 +122,8 @@ DSA notes and Qs.
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/krishnamittal1806/DSA/tree/master/0402-remove-k-digits) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/krishnamittal1806/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
