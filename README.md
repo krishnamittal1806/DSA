@@ -32,6 +32,7 @@ DSA notes and Qs.
 | ------- |
 | [0050-powx-n](https://github.com/krishnamittal1806/DSA/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishnamittal1806/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0633-sum-of-square-numbers](https://github.com/krishnamittal1806/DSA/tree/master/0633-sum-of-square-numbers) |
 | [2063-vowels-of-all-substrings](https://github.com/krishnamittal1806/DSA/tree/master/2063-vowels-of-all-substrings) |
 ## Recursion
 |  |
@@ -121,6 +122,7 @@ DSA notes and Qs.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krishnamittal1806/DSA/tree/master/0042-trapping-rain-water) |
+| [0633-sum-of-square-numbers](https://github.com/krishnamittal1806/DSA/tree/master/0633-sum-of-square-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -161,4 +163,8 @@ DSA notes and Qs.
 | [0102-binary-tree-level-order-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/krishnamittal1806/DSA/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
