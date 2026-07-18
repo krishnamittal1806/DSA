@@ -15,24 +15,10 @@
  */
 class Solution {
     public boolean isBalanced(TreeNode root) {
-        if( root == null) return true;
-        Stack<TreeNode> stack = new Stack<>();
+        int depth = findDepth(root);
 
-        stack.push(root);
-
-        while(!stack.isEmpty()){
-            TreeNode element = stack.pop();
-
-            if(element.left != null) stack.push(element.left);
-            if(element.right != null) stack.push(element.right);
-            
-            int lh = findDepth(element.left);
-            int rh = findDepth(element.right);
-
-            if( Math.abs(lh - rh) > 1) return false;
-        }
-
-        return true;
+        if(depth == -1) return false;
+        else return true;
 
     }
 
@@ -42,6 +28,10 @@ class Solution {
         }
         int lh = findDepth(root.left);
         int rh = findDepth(root.right);
+
+        if(lh == -1 || rh == -1) return -1;
+
+        if(Math.abs(lh - rh) > 1) return -1;
         return 1 + Math.max(lh ,rh);  
     }
 }
