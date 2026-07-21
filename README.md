@@ -5,6 +5,7 @@ DSA notes and Qs.
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/krishnamittal1806/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/krishnamittal1806/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krishnamittal1806/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/krishnamittal1806/DSA/tree/master/0085-maximal-rectangle) |
@@ -177,4 +178,8 @@ DSA notes and Qs.
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/krishnamittal1806/DSA/tree/master/0633-sum-of-square-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/krishnamittal1806/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
