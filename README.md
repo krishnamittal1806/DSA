@@ -10,6 +10,7 @@ DSA notes and Qs.
 | [0078-subsets](https://github.com/krishnamittal1806/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krishnamittal1806/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/krishnamittal1806/DSA/tree/master/0085-maximal-rectangle) |
+| [0090-subsets-ii](https://github.com/krishnamittal1806/DSA/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishnamittal1806/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/krishnamittal1806/DSA/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/krishnamittal1806/DSA/tree/master/0496-next-greater-element-i) |
@@ -184,8 +185,10 @@ DSA notes and Qs.
 | ------- |
 | [0039-combination-sum](https://github.com/krishnamittal1806/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/krishnamittal1806/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/krishnamittal1806/DSA/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/krishnamittal1806/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/krishnamittal1806/DSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
