@@ -191,4 +191,8 @@ DSA notes and Qs.
 | ------- |
 | [0078-subsets](https://github.com/krishnamittal1806/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/krishnamittal1806/DSA/tree/master/0090-subsets-ii) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/krishnamittal1806/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
