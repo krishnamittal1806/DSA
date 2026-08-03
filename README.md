@@ -12,6 +12,7 @@ DSA notes and Qs.
 | [0085-maximal-rectangle](https://github.com/krishnamittal1806/DSA/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/krishnamittal1806/DSA/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishnamittal1806/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0217-contains-duplicate](https://github.com/krishnamittal1806/DSA/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/krishnamittal1806/DSA/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/krishnamittal1806/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/krishnamittal1806/DSA/tree/master/0503-next-greater-element-ii) |
@@ -45,6 +46,7 @@ DSA notes and Qs.
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/krishnamittal1806/DSA/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/krishnamittal1806/DSA/tree/master/0496-next-greater-element-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishnamittal1806/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -211,4 +213,8 @@ DSA notes and Qs.
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/krishnamittal1806/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/krishnamittal1806/DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/krishnamittal1806/DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/krishnamittal1806/DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
