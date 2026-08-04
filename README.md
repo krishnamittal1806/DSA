@@ -5,6 +5,7 @@ DSA notes and Qs.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krishnamittal1806/DSA/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/krishnamittal1806/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/krishnamittal1806/DSA/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/krishnamittal1806/DSA/tree/master/0078-subsets) |
@@ -46,6 +47,7 @@ DSA notes and Qs.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krishnamittal1806/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/krishnamittal1806/DSA/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/krishnamittal1806/DSA/tree/master/0496-next-greater-element-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishnamittal1806/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
