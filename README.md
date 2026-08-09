@@ -63,6 +63,7 @@ DSA notes and Qs.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krishnamittal1806/DSA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/krishnamittal1806/DSA/tree/master/0085-maximal-rectangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/krishnamittal1806/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishnamittal1806/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2063-vowels-of-all-substrings](https://github.com/krishnamittal1806/DSA/tree/master/2063-vowels-of-all-substrings) |
 ## Combinatorics
@@ -169,6 +170,7 @@ DSA notes and Qs.
 | [0102-binary-tree-level-order-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/krishnamittal1806/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -179,6 +181,7 @@ DSA notes and Qs.
 | [0101-symmetric-tree](https://github.com/krishnamittal1806/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/krishnamittal1806/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
@@ -190,6 +193,7 @@ DSA notes and Qs.
 | [0102-binary-tree-level-order-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/krishnamittal1806/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search
@@ -232,4 +236,8 @@ DSA notes and Qs.
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/krishnamittal1806/DSA/tree/master/2396-strictly-palindromic-number) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/krishnamittal1806/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
