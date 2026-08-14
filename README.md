@@ -55,6 +55,7 @@ DSA notes and Qs.
 | [0128-longest-consecutive-sequence](https://github.com/krishnamittal1806/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/krishnamittal1806/DSA/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/krishnamittal1806/DSA/tree/master/0496-next-greater-element-i) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishnamittal1806/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -131,6 +132,7 @@ DSA notes and Qs.
 | [0102-binary-tree-level-order-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/krishnamittal1806/DSA/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -178,6 +180,7 @@ DSA notes and Qs.
 | [0124-binary-tree-maximum-path-sum](https://github.com/krishnamittal1806/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -189,6 +192,7 @@ DSA notes and Qs.
 | [0124-binary-tree-maximum-path-sum](https://github.com/krishnamittal1806/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -202,6 +206,7 @@ DSA notes and Qs.
 | [0124-binary-tree-maximum-path-sum](https://github.com/krishnamittal1806/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -238,6 +243,7 @@ DSA notes and Qs.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/krishnamittal1806/DSA/tree/master/0217-contains-duplicate) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Brainteaser
 |  |
 | ------- |
