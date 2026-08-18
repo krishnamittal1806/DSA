@@ -31,6 +31,7 @@ DSA notes and Qs.
 | ------- |
 | [0020-valid-parentheses](https://github.com/krishnamittal1806/DSA/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/krishnamittal1806/DSA/tree/master/0076-minimum-window-substring) |
+| [0257-binary-tree-paths](https://github.com/krishnamittal1806/DSA/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/krishnamittal1806/DSA/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/krishnamittal1806/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishnamittal1806/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -186,6 +187,7 @@ DSA notes and Qs.
 | [0145-binary-tree-postorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/krishnamittal1806/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/krishnamittal1806/DSA/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -200,6 +202,7 @@ DSA notes and Qs.
 | [0145-binary-tree-postorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/krishnamittal1806/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/krishnamittal1806/DSA/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -216,6 +219,7 @@ DSA notes and Qs.
 | [0145-binary-tree-postorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/krishnamittal1806/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/krishnamittal1806/DSA/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search
 |  |
@@ -228,6 +232,7 @@ DSA notes and Qs.
 | [0039-combination-sum](https://github.com/krishnamittal1806/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/krishnamittal1806/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/krishnamittal1806/DSA/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/krishnamittal1806/DSA/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
