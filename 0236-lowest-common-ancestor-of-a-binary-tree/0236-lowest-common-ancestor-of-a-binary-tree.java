@@ -9,17 +9,40 @@
  */
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        if (root == null || root == p || root == q) {
-            return root;
+        // brute force approach 
+
+        List<TreeNode> pathp = new ArrayList<>();
+        List<TreeNode> pathq = new ArrayList<>();
+
+        findpath(root , p , pathp);
+        findpath(root , q , pathq);
+
+        TreeNode ans = null;
+        int i = 0;
+
+        while(i < pathp.size() && i < pathq.size() && pathp.get(i) == pathq.get(i)){
+            ans = pathp.get(i);
+            i++;
         }
 
-        TreeNode left = lowestCommonAncestor(root.left, p, q);
-        TreeNode right = lowestCommonAncestor(root.right, p, q);
+        return ans; 
 
-        if (left != null && right != null) {
-            return root;
+    }
+    private boolean findpath( TreeNode root , TreeNode target , List<TreeNode> path){
+        if( root == null){
+            return false;
+        }
+        path.add(root);
+
+        if(root == target){
+            return true;
+        }
+        if( findpath(root.left , target , path) || findpath(root.right, target , path) ){
+            return true;
         }
 
-        return left != null ? left : right;        
+        path.remove(path.size() - 1);
+        return false;
+
     }
 }
