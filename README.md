@@ -12,6 +12,7 @@ DSA notes and Qs.
 | [0084-largest-rectangle-in-histogram](https://github.com/krishnamittal1806/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/krishnamittal1806/DSA/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/krishnamittal1806/DSA/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/krishnamittal1806/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishnamittal1806/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnamittal1806/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -55,6 +56,7 @@ DSA notes and Qs.
 | ------- |
 | [0001-two-sum](https://github.com/krishnamittal1806/DSA/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/krishnamittal1806/DSA/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/krishnamittal1806/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/krishnamittal1806/DSA/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/krishnamittal1806/DSA/tree/master/0496-next-greater-element-i) |
@@ -183,6 +185,7 @@ DSA notes and Qs.
 | [0102-binary-tree-level-order-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/krishnamittal1806/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -217,6 +220,7 @@ DSA notes and Qs.
 | [0102-binary-tree-level-order-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/krishnamittal1806/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -288,4 +292,8 @@ DSA notes and Qs.
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
