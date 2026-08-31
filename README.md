@@ -207,6 +207,7 @@ DSA notes and Qs.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/krishnamittal1806/DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/krishnamittal1806/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/krishnamittal1806/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -249,6 +250,7 @@ DSA notes and Qs.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/krishnamittal1806/DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/krishnamittal1806/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/krishnamittal1806/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -332,4 +334,8 @@ DSA notes and Qs.
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/krishnamittal1806/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/krishnamittal1806/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
