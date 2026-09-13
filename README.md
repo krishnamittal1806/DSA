@@ -26,6 +26,7 @@ DSA notes and Qs.
 | [0739-daily-temperatures](https://github.com/krishnamittal1806/DSA/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishnamittal1806/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/krishnamittal1806/DSA/tree/master/0994-rotting-oranges) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishnamittal1806/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/krishnamittal1806/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## String
@@ -109,6 +110,7 @@ DSA notes and Qs.
 | [0739-daily-temperatures](https://github.com/krishnamittal1806/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/krishnamittal1806/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishnamittal1806/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/krishnamittal1806/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/krishnamittal1806/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/krishnamittal1806/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -138,6 +140,7 @@ DSA notes and Qs.
 | [0739-daily-temperatures](https://github.com/krishnamittal1806/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/krishnamittal1806/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishnamittal1806/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/krishnamittal1806/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Breadth-First Search
 |  |
@@ -213,6 +216,7 @@ DSA notes and Qs.
 | [0701-insert-into-a-binary-search-tree](https://github.com/krishnamittal1806/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/krishnamittal1806/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -261,6 +265,7 @@ DSA notes and Qs.
 | [0701-insert-into-a-binary-search-tree](https://github.com/krishnamittal1806/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/krishnamittal1806/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search
 |  |
@@ -351,4 +356,5 @@ DSA notes and Qs.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/krishnamittal1806/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/krishnamittal1806/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/krishnamittal1806/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
