@@ -14,34 +14,23 @@
  * }
  */
 class Solution {
+    private int index = 0;
     public TreeNode bstFromPreorder(int[] preorder) {
-       
-        int[] pre = preorder.clone();
-
-        Arrays.sort(preorder);
-
-        Map<Integer, Integer> inmap = new HashMap<>();
-        for( int i = 0; i < preorder.length ; i++){
-            inmap.put(preorder[i] , i);
-        }
-
-        TreeNode root = buildTree( pre , 0 , pre.length - 1 , preorder ,0, preorder.length - 1, inmap);
-        return root;
-    
+        return build(preorder , Integer.MIN_VALUE , Integer.MAX_VALUE);
     }
-    private TreeNode buildTree( int[] pre , int prestart , int preend , int[] inorder , int instart , int inend , Map<Integer,Integer> inmap){
-        if(prestart > preend || instart > inend) return null;
 
-        TreeNode root = new TreeNode(pre[prestart]);
+    private TreeNode build( int[] preorder , int lbound , int ubound){
+        if( index >= preorder.length ) return null;
+        int val = preorder[index];
 
-        int inRoot = inmap.get(root.val);
-        int numsleft = inRoot - instart;
+        if(val < lbound || val > ubound) return null;
 
-        root.left = buildTree(pre , prestart + 1 , prestart + numsleft , inorder , instart , inRoot - 1 , inmap);
+        TreeNode root = new TreeNode(val);
+        index++;
 
-        root.right = buildTree(pre , prestart + numsleft + 1 , preend, inorder , inRoot + 1 , inend , inmap);
+        root.left = build(preorder , lbound , val);
+        root.right = build(preorder, val , ubound);
 
         return root;
-    
     }
 }
