@@ -15,30 +15,27 @@
  */
 class BSTIterator {
 
-    // brute force -> store the inorder of BST in a list and then implement next and hasnext
-    // time -> O(1) , space - O(N) , where N = no. of nodes
-
-    List<Integer> list = new ArrayList<>();
-    private int p = -1;
+    private Stack<TreeNode> stack = new Stack<TreeNode>();
 
     public BSTIterator(TreeNode root) {
-        inorder( root , list);
+        pushAllLeft(root);
     }
     
     public int next() {
-        p++;
-        return list.get(p); 
+        TreeNode temp = stack.pop();
+        pushAllLeft(temp.right);
+        return temp.val;
     }
     
     public boolean hasNext() {
-       return (p + 1 < list.size() );
+        return !stack.isEmpty();
     }
 
-    public void inorder( TreeNode root , List<Integer> list){
-        if( root == null) return;
-        inorder(root.left , list);
-        list.add(root.val);
-        inorder(root.right , list);
+    private void pushAllLeft(TreeNode root){
+        while( root != null){
+            stack.push(root);
+            root = root.left;
+        }
     }
 }
 
