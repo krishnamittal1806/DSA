@@ -156,6 +156,7 @@ DSA notes and Qs.
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/krishnamittal1806/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/krishnamittal1806/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/krishnamittal1806/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -247,6 +248,7 @@ DSA notes and Qs.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/krishnamittal1806/DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/krishnamittal1806/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/krishnamittal1806/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -340,6 +342,7 @@ DSA notes and Qs.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/krishnamittal1806/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/krishnamittal1806/DSA/tree/master/0547-number-of-provinces) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -383,4 +386,8 @@ DSA notes and Qs.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/krishnamittal1806/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/krishnamittal1806/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
