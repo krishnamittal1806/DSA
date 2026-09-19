@@ -1,58 +1,53 @@
 class Solution {
+    
     public int orangesRotting(int[][] grid) {
+        if(grid.length == 0) return 0;
         int m = grid.length;
         int n = grid[0].length;
-        int minutes = 0;
 
-        Queue<int[]> queue = new LinkedList<>();
+        Queue<int[]> q = new LinkedList<>();
 
-        // first store all the Rotten oranges in Queue 
+        int total = 0;
+        int count= 0 ;
+        int time  = 0;
+        for( int i = 0 ; i < m ; i++){
+            for( int j = 0; j < n ; j++){
+                if(grid[i][j] != 0) total++;
 
-        for( int i = 0; i < m ; i++){
-            for( int j = 0; j< n; j++){
+
                 if(grid[i][j] == 2){
-                    queue.add(new int[]{i , j , 0});
-                }
-            }
-        }
-        int maxMinutes = 0;
-        // mark adj nodes aas rotten and push it inot Queue till its not empty
-        while(!queue.isEmpty()){
-            
-            int[] curr = queue.poll();
-            int x = curr[0] ; int y = curr[1]; int time = curr[2];
-
-            if(y > 0 && grid[x][y-1] == 1){
-                grid[x][y-1] = 2;
-                queue.add(new int[]{x,y-1,time+1}); 
-            }
-            if(y < n-1 && grid[x][y+1] == 1){
-                grid[x][y+1] = 2;
-                queue.add(new int[]{x,y+1,time+1}); 
-            }
-            if(x < m-1 && grid[x+1][y] == 1){
-                grid[x+1][y] = 2;
-                queue.add(new int[]{x+1,y,time+1}); 
-            }
-            if(x > 0  && grid[x-1][y] == 1){
-                grid[x-1][y] = 2;
-                queue.add(new int[]{x-1,y,time+1}); 
-            }
-
-            maxMinutes = Math.max(time , maxMinutes);
-            
-        }
-
-        //finally traverse the entire grid if any fresh orange is found return -1;
-        for( int i = 0; i < m ; i++){
-            for( int j = 0; j< n; j++){
-                if(grid[i][j] == 1){
-                    return -1;
+                    q.add(new int[]{i , j});
                 }
             }
         }
 
-        return maxMinutes;
+        int[] dx = {0,0,1,-1};
+        int[] dy = {1,-1,0,0};
+
+        while( !q.isEmpty()){
+            int k = q.size();
+            count += k;
+
+            for( int i = 0 ; i < k ; i++){
+                int[] pos = q.poll();
+                int x = pos[0] ; int y = pos[1];
+
+                for( int d = 0; d < 4 ; d++){
+                    int nx = x + dx[d];
+                    int ny = y + dy[d];
+
+                    if( nx < 0 || ny < 0 || nx >=m || ny >= n || grid[nx][ny] != 1) continue;
+
+                    grid[nx][ny] = 2;
+
+                    q.add( new int[]{nx , ny});
+                }
+            }
+
+            if( !q.isEmpty()) time++;
+        }
+
+        return count == total ? time : -1;
 
     }
 }
