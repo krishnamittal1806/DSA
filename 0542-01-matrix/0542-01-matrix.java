@@ -1,35 +1,53 @@
+class Node{
+    int first;
+    int second;
+    int third;
+    public Node(int first , int second , int third){
+        this.first = first;
+        this.second = second;
+        this.third = third;
+    }
+}
+
 class Solution {
     public int[][] updateMatrix(int[][] mat) {
-        if (mat == null || mat.length == 0 || mat[0].length == 0)
-            return new int[0][0];
+        int n = mat.length;
+        int m = mat[0].length;
 
-        int m = mat.length, n = mat[0].length;
-        Queue<int[]> queue = new LinkedList<>();
-        int MAX_VALUE = m * n;
-        
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (mat[i][j] == 0) {
-                    queue.offer(new int[]{i, j});
-                } else {
-                    mat[i][j] = MAX_VALUE;
+        Queue<Node> q = new LinkedList<>();
+        int[][] vis = new int[n][m];
+        int[][] dist = new int[n][m];
+
+        for( int i = 0 ; i < n ; i++){ // marked all the zeros present initially
+            for( int j = 0 ; j < m ; j++){
+                if(mat[i][j] == 0){
+                    q.add( new Node(i , j , 0));
+                    vis[i][j] = 1;
                 }
+                else vis[i][j] = 0;
             }
         }
-        
-        int[][] directions = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
-        
-        while (!queue.isEmpty()) {
-            int[] cell = queue.poll();
-            for (int[] dir : directions) {
-                int r = cell[0] + dir[0], c = cell[1] + dir[1];
-                if (r >= 0 && r < m && c >= 0 && c < n && mat[r][c] > mat[cell[0]][cell[1]] + 1) {
-                    queue.offer(new int[]{r, c});
-                    mat[r][c] = mat[cell[0]][cell[1]] + 1;
+        int[] dx = { 1 , -1 , 0 , 0};
+        int[] dy = {0 , 0 , 1 , -1};
+
+        while( !q.isEmpty()){
+            int r = q.peek().first;
+            int c = q.peek().second;
+            int steps = q.peek().third;
+            q.remove();
+            dist[r][c] = steps;
+
+            for( int i = 0 ; i < 4 ; i++){
+                int nr = r +dx[i];
+                int nc = c + dy[i];
+
+                if( nr >= 0 && nc >= 0 && nr < n && nc < m && vis[nr][nc] == 0){
+                    vis[nr][nc] = 1;
+                    q.add( new Node(nr , nc , steps + 1)); 
                 }
             }
+
         }
-        
-        return mat;
+        return dist;
     }
 }
