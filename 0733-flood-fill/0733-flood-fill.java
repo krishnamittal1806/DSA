@@ -1,24 +1,26 @@
 class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        int originalColor = image[sr][sc];
-        if (originalColor == color) return image;
+        int n = image.length;
+        int m = image[0].length;
+        int original = image[sr][sc];
+        int[][] vis = new int[n][m];
 
-        dfs(image, sr, sc, originalColor, color);
+        dfs( sr , sc , vis , image , color , original);
 
-        return image;
+        return image ;
     }
+    private void dfs( int sr , int sc , int[][] vis , int[][] image , int color , int original){
+        int n = image.length ;
+        int m = image[0].length;
 
-    void dfs(int[][] image, int sr, int sc, int originalColor, int givenColor) {
-        int m = image.length;
-        int n = image[0].length;
-
-        if (sr < 0 || sr >= m || sc < 0 || sc >= n) return;
-        if (image[sr][sc] != originalColor) return;
-        image[sr][sc] = givenColor;
-
-        dfs(image, sr + 1, sc, originalColor, givenColor);
-        dfs(image, sr - 1, sc, originalColor, givenColor);
-        dfs(image, sr, sc + 1, originalColor, givenColor);
-        dfs(image, sr, sc - 1, originalColor, givenColor);
+        if( sr < 0 || sr > n-1 || sc < 0 || sc > m-1 || image[sr][sc] != original || vis[sr][sc] == 1){
+            return;
+        }
+        vis[sr][sc] = 1;
+        image[sr][sc] = color;
+        dfs(sr+1 , sc , vis , image , color , original);
+        dfs(sr-1 , sc , vis , image , color,original);
+        dfs( sr , sc+1 , vis , image , color,original);
+        dfs( sr , sc-1 , vis , image , color,original);
     }
 }
