@@ -428,4 +428,8 @@ DSA notes and Qs.
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/krishnamittal1806/DSA/tree/master/0785-is-graph-bipartite) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/krishnamittal1806/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
