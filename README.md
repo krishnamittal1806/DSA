@@ -39,6 +39,7 @@ DSA notes and Qs.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krishnamittal1806/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/krishnamittal1806/DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/krishnamittal1806/DSA/tree/master/0076-minimum-window-substring) |
 | [0257-binary-tree-paths](https://github.com/krishnamittal1806/DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -86,6 +87,7 @@ DSA notes and Qs.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/krishnamittal1806/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/krishnamittal1806/DSA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/krishnamittal1806/DSA/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/krishnamittal1806/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -319,6 +321,7 @@ DSA notes and Qs.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/krishnamittal1806/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/krishnamittal1806/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/krishnamittal1806/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/krishnamittal1806/DSA/tree/master/0090-subsets-ii) |
@@ -432,4 +435,5 @@ DSA notes and Qs.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krishnamittal1806/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/krishnamittal1806/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
