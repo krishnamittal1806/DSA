@@ -15,6 +15,7 @@ DSA notes and Qs.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/krishnamittal1806/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/krishnamittal1806/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/krishnamittal1806/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/krishnamittal1806/DSA/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishnamittal1806/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -92,6 +93,7 @@ DSA notes and Qs.
 | [0042-trapping-rain-water](https://github.com/krishnamittal1806/DSA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/krishnamittal1806/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/krishnamittal1806/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/krishnamittal1806/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/krishnamittal1806/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/krishnamittal1806/DSA/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishnamittal1806/DSA/tree/master/0907-sum-of-subarray-minimums) |
