@@ -15,12 +15,14 @@
  */
 class Solution {
     public int maxDepth(TreeNode root) {
-       
-       // recursive approach 
-       if( root == null) return 0;
-       int lh = maxDepth(root.left);
-       int rh = maxDepth(root.right);
+      return height(root);
+    
+    }
+    private int height(TreeNode node){
+        if( node == null) return 0;
 
-       return 1 + Math.max(lh , rh);
+        int lh = height(node.left);
+        int rh = height(node.right);
+        return Math.max(lh , rh) + 1;
     }
 }
