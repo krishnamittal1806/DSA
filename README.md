@@ -50,6 +50,7 @@ DSA notes and Qs.
 | [0451-sort-characters-by-frequency](https://github.com/krishnamittal1806/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/krishnamittal1806/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/krishnamittal1806/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishnamittal1806/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/krishnamittal1806/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishnamittal1806/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishnamittal1806/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -134,6 +135,7 @@ DSA notes and Qs.
 | [0856-score-of-parentheses](https://github.com/krishnamittal1806/DSA/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/krishnamittal1806/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishnamittal1806/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishnamittal1806/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/krishnamittal1806/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/krishnamittal1806/DSA/tree/master/2104-sum-of-subarray-ranges) |
@@ -219,6 +221,7 @@ DSA notes and Qs.
 | ------- |
 | [0402-remove-k-digits](https://github.com/krishnamittal1806/DSA/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/krishnamittal1806/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishnamittal1806/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Data Stream
 |  |
 | ------- |
@@ -452,4 +455,5 @@ DSA notes and Qs.
 | [0032-longest-valid-parentheses](https://github.com/krishnamittal1806/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/krishnamittal1806/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/krishnamittal1806/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishnamittal1806/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
