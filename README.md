@@ -46,6 +46,7 @@ DSA notes and Qs.
 | [0076-minimum-window-substring](https://github.com/krishnamittal1806/DSA/tree/master/0076-minimum-window-substring) |
 | [0257-binary-tree-paths](https://github.com/krishnamittal1806/DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/krishnamittal1806/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/krishnamittal1806/DSA/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/krishnamittal1806/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/krishnamittal1806/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -181,6 +182,7 @@ DSA notes and Qs.
 | [0199-binary-tree-right-side-view](https://github.com/krishnamittal1806/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/krishnamittal1806/DSA/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/krishnamittal1806/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/krishnamittal1806/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/krishnamittal1806/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/krishnamittal1806/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -342,6 +344,7 @@ DSA notes and Qs.
 | [0078-subsets](https://github.com/krishnamittal1806/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/krishnamittal1806/DSA/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/krishnamittal1806/DSA/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/krishnamittal1806/DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
