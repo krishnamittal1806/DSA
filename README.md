@@ -38,6 +38,7 @@ DSA notes and Qs.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishnamittal1806/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/krishnamittal1806/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/krishnamittal1806/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/krishnamittal1806/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## String
 |  |
 | ------- |
@@ -87,6 +88,7 @@ DSA notes and Qs.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krishnamittal1806/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/krishnamittal1806/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/krishnamittal1806/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sliding Window
 |  |
 | ------- |
@@ -229,6 +231,7 @@ DSA notes and Qs.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krishnamittal1806/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/krishnamittal1806/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/krishnamittal1806/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/krishnamittal1806/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Data Stream
 |  |
 | ------- |
@@ -357,6 +360,7 @@ DSA notes and Qs.
 | ------- |
 | [0078-subsets](https://github.com/krishnamittal1806/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/krishnamittal1806/DSA/tree/master/0090-subsets-ii) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/krishnamittal1806/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Database
 |  |
 | ------- |
