@@ -37,6 +37,7 @@ DSA notes and Qs.
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishnamittal1806/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1765-map-of-highest-peak](https://github.com/krishnamittal1806/DSA/tree/master/1765-map-of-highest-peak) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishnamittal1806/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/krishnamittal1806/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/krishnamittal1806/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/krishnamittal1806/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/krishnamittal1806/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -357,6 +358,7 @@ DSA notes and Qs.
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnamittal1806/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/krishnamittal1806/DSA/tree/master/0633-sum-of-square-numbers) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/krishnamittal1806/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/krishnamittal1806/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Backtracking
 |  |
@@ -395,6 +397,7 @@ DSA notes and Qs.
 | [0217-contains-duplicate](https://github.com/krishnamittal1806/DSA/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/krishnamittal1806/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/krishnamittal1806/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/krishnamittal1806/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krishnamittal1806/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Brainteaser
