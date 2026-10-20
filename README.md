@@ -44,6 +44,7 @@ DSA notes and Qs.
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krishnamittal1806/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/krishnamittal1806/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krishnamittal1806/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/krishnamittal1806/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ DSA notes and Qs.
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishnamittal1806/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2063-vowels-of-all-substrings](https://github.com/krishnamittal1806/DSA/tree/master/2063-vowels-of-all-substrings) |
 | [2396-strictly-palindromic-number](https://github.com/krishnamittal1806/DSA/tree/master/2396-strictly-palindromic-number) |
+| [3886-sum-of-sortable-integers](https://github.com/krishnamittal1806/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -400,6 +402,7 @@ DSA notes and Qs.
 | [2089-find-target-indices-after-sorting-array](https://github.com/krishnamittal1806/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/krishnamittal1806/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krishnamittal1806/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/krishnamittal1806/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Brainteaser
 |  |
 | ------- |
@@ -509,4 +512,8 @@ DSA notes and Qs.
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishnamittal1806/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/krishnamittal1806/DSA/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
