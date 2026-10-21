@@ -66,6 +66,7 @@ DSA notes and Qs.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishnamittal1806/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2063-vowels-of-all-substrings](https://github.com/krishnamittal1806/DSA/tree/master/2063-vowels-of-all-substrings) |
 | [2390-removing-stars-from-a-string](https://github.com/krishnamittal1806/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/krishnamittal1806/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Math
 |  |
 | ------- |
