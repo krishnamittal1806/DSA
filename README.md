@@ -45,6 +45,7 @@ DSA notes and Qs.
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/krishnamittal1806/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krishnamittal1806/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/krishnamittal1806/DSA/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/krishnamittal1806/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## String
 |  |
 | ------- |
