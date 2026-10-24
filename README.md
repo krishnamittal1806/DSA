@@ -68,6 +68,7 @@ DSA notes and Qs.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishnamittal1806/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2063-vowels-of-all-substrings](https://github.com/krishnamittal1806/DSA/tree/master/2063-vowels-of-all-substrings) |
 | [2390-removing-stars-from-a-string](https://github.com/krishnamittal1806/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/krishnamittal1806/DSA/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/krishnamittal1806/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Math
 |  |
@@ -78,6 +79,7 @@ DSA notes and Qs.
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishnamittal1806/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2063-vowels-of-all-substrings](https://github.com/krishnamittal1806/DSA/tree/master/2063-vowels-of-all-substrings) |
 | [2396-strictly-palindromic-number](https://github.com/krishnamittal1806/DSA/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/krishnamittal1806/DSA/tree/master/2409-count-days-spent-together) |
 | [3886-sum-of-sortable-integers](https://github.com/krishnamittal1806/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
