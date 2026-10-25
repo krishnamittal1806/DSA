@@ -34,6 +34,7 @@ DSA notes and Qs.
 | [0994-rotting-oranges](https://github.com/krishnamittal1806/DSA/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/krishnamittal1806/DSA/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/krishnamittal1806/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishnamittal1806/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1765-map-of-highest-peak](https://github.com/krishnamittal1806/DSA/tree/master/1765-map-of-highest-peak) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishnamittal1806/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -215,6 +216,7 @@ DSA notes and Qs.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/krishnamittal1806/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/krishnamittal1806/DSA/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/krishnamittal1806/DSA/tree/master/1254-number-of-closed-islands) |
 | [1765-map-of-highest-peak](https://github.com/krishnamittal1806/DSA/tree/master/1765-map-of-highest-peak) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/krishnamittal1806/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Matrix
@@ -227,6 +229,7 @@ DSA notes and Qs.
 | [0733-flood-fill](https://github.com/krishnamittal1806/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/krishnamittal1806/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/krishnamittal1806/DSA/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/krishnamittal1806/DSA/tree/master/1254-number-of-closed-islands) |
 | [1765-map-of-highest-peak](https://github.com/krishnamittal1806/DSA/tree/master/1765-map-of-highest-peak) |
 ## Two Pointers
 |  |
@@ -325,6 +328,7 @@ DSA notes and Qs.
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/krishnamittal1806/DSA/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/krishnamittal1806/DSA/tree/master/1254-number-of-closed-islands) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/krishnamittal1806/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -431,6 +435,7 @@ DSA notes and Qs.
 | [0547-number-of-provinces](https://github.com/krishnamittal1806/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/krishnamittal1806/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/krishnamittal1806/DSA/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/krishnamittal1806/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishnamittal1806/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Lifting
 |  |
