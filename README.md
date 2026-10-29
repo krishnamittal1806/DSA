@@ -128,6 +128,7 @@ DSA notes and Qs.
 | [0678-valid-parenthesis-string](https://github.com/krishnamittal1806/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishnamittal1806/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/krishnamittal1806/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishnamittal1806/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2063-vowels-of-all-substrings](https://github.com/krishnamittal1806/DSA/tree/master/2063-vowels-of-all-substrings) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/krishnamittal1806/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -177,6 +178,7 @@ DSA notes and Qs.
 | [0232-implement-queue-using-stacks](https://github.com/krishnamittal1806/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0901-online-stock-span](https://github.com/krishnamittal1806/DSA/tree/master/0901-online-stock-span) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/krishnamittal1806/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Queue
 |  |
 | ------- |
@@ -220,6 +222,7 @@ DSA notes and Qs.
 | [0994-rotting-oranges](https://github.com/krishnamittal1806/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/krishnamittal1806/DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/krishnamittal1806/DSA/tree/master/1254-number-of-closed-islands) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/krishnamittal1806/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1765-map-of-highest-peak](https://github.com/krishnamittal1806/DSA/tree/master/1765-map-of-highest-peak) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/krishnamittal1806/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishnamittal1806/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -304,6 +307,7 @@ DSA notes and Qs.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/krishnamittal1806/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/krishnamittal1806/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishnamittal1806/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/krishnamittal1806/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -336,6 +340,7 @@ DSA notes and Qs.
 | [1020-number-of-enclaves](https://github.com/krishnamittal1806/DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/krishnamittal1806/DSA/tree/master/1254-number-of-closed-islands) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/krishnamittal1806/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/krishnamittal1806/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishnamittal1806/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
@@ -376,6 +381,7 @@ DSA notes and Qs.
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnamittal1806/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/krishnamittal1806/DSA/tree/master/0633-sum-of-square-numbers) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/krishnamittal1806/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/krishnamittal1806/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/krishnamittal1806/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Backtracking
@@ -392,6 +398,7 @@ DSA notes and Qs.
 | ------- |
 | [0078-subsets](https://github.com/krishnamittal1806/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/krishnamittal1806/DSA/tree/master/0090-subsets-ii) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/krishnamittal1806/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/krishnamittal1806/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/krishnamittal1806/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/krishnamittal1806/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -451,6 +458,7 @@ DSA notes and Qs.
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/krishnamittal1806/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/krishnamittal1806/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
