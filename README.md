@@ -73,6 +73,7 @@ DSA notes and Qs.
 | [2390-removing-stars-from-a-string](https://github.com/krishnamittal1806/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/krishnamittal1806/DSA/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/krishnamittal1806/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/krishnamittal1806/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Math
 |  |
 | ------- |
@@ -272,6 +273,7 @@ DSA notes and Qs.
 | [0239-sliding-window-maximum](https://github.com/krishnamittal1806/DSA/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/krishnamittal1806/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/krishnamittal1806/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/krishnamittal1806/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -504,6 +506,7 @@ DSA notes and Qs.
 | ------- |
 | [0547-number-of-provinces](https://github.com/krishnamittal1806/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/krishnamittal1806/DSA/tree/master/0785-is-graph-bipartite) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/krishnamittal1806/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -544,4 +547,8 @@ DSA notes and Qs.
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/krishnamittal1806/DSA/tree/master/3886-sum-of-sortable-integers) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/krishnamittal1806/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
