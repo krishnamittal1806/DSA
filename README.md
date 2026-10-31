@@ -47,6 +47,7 @@ DSA notes and Qs.
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krishnamittal1806/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishnamittal1806/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/krishnamittal1806/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/krishnamittal1806/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/krishnamittal1806/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/krishnamittal1806/DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/krishnamittal1806/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -132,6 +133,7 @@ DSA notes and Qs.
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/krishnamittal1806/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishnamittal1806/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2063-vowels-of-all-substrings](https://github.com/krishnamittal1806/DSA/tree/master/2063-vowels-of-all-substrings) |
+| [3665-twisted-mirror-path-count](https://github.com/krishnamittal1806/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/krishnamittal1806/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Combinatorics
 |  |
@@ -240,6 +242,7 @@ DSA notes and Qs.
 | [1254-number-of-closed-islands](https://github.com/krishnamittal1806/DSA/tree/master/1254-number-of-closed-islands) |
 | [1765-map-of-highest-peak](https://github.com/krishnamittal1806/DSA/tree/master/1765-map-of-highest-peak) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishnamittal1806/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/krishnamittal1806/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/krishnamittal1806/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
