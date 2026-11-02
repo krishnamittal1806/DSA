@@ -25,6 +25,7 @@ DSA notes and Qs.
 | [0238-product-of-array-except-self](https://github.com/krishnamittal1806/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/krishnamittal1806/DSA/tree/master/0239-sliding-window-maximum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/krishnamittal1806/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/krishnamittal1806/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/krishnamittal1806/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/krishnamittal1806/DSA/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/krishnamittal1806/DSA/tree/master/0542-01-matrix) |
@@ -82,6 +83,7 @@ DSA notes and Qs.
 | [0050-powx-n](https://github.com/krishnamittal1806/DSA/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishnamittal1806/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/krishnamittal1806/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/krishnamittal1806/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/krishnamittal1806/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/krishnamittal1806/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2063-vowels-of-all-substrings](https://github.com/krishnamittal1806/DSA/tree/master/2063-vowels-of-all-substrings) |
@@ -430,6 +432,7 @@ DSA notes and Qs.
 | ------- |
 | [0217-contains-duplicate](https://github.com/krishnamittal1806/DSA/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/krishnamittal1806/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/krishnamittal1806/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishnamittal1806/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/krishnamittal1806/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/krishnamittal1806/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
