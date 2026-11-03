@@ -50,6 +50,7 @@ DSA notes and Qs.
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krishnamittal1806/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/krishnamittal1806/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/krishnamittal1806/DSA/tree/master/3665-twisted-mirror-path-count) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/krishnamittal1806/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/krishnamittal1806/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/krishnamittal1806/DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/krishnamittal1806/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -89,6 +90,7 @@ DSA notes and Qs.
 | [2063-vowels-of-all-substrings](https://github.com/krishnamittal1806/DSA/tree/master/2063-vowels-of-all-substrings) |
 | [2396-strictly-palindromic-number](https://github.com/krishnamittal1806/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/krishnamittal1806/DSA/tree/master/2409-count-days-spent-together) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/krishnamittal1806/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/krishnamittal1806/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
