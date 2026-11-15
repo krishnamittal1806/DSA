@@ -593,4 +593,8 @@ DSA notes and Qs.
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/krishnamittal1806/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/krishnamittal1806/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
