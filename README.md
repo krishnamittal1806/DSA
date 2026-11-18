@@ -86,6 +86,7 @@ DSA notes and Qs.
 | [2243-calculate-digit-sum-of-a-string](https://github.com/krishnamittal1806/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/krishnamittal1806/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/krishnamittal1806/DSA/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/krishnamittal1806/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/krishnamittal1806/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/krishnamittal1806/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Math
