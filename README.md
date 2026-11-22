@@ -86,6 +86,7 @@ DSA notes and Qs.
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/krishnamittal1806/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krishnamittal1806/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2063-vowels-of-all-substrings](https://github.com/krishnamittal1806/DSA/tree/master/2063-vowels-of-all-substrings) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/krishnamittal1806/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/krishnamittal1806/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/krishnamittal1806/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/krishnamittal1806/DSA/tree/master/2409-count-days-spent-together) |
